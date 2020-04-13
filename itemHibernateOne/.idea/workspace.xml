@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef208ec2-0b26-44bd-85f2-4784ff95b497" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="itemHibernateOne">
+      <favorite_root url="com.hibernate.one.SelStudy" module="itemHibernateOne" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aIiyIOXZRtjiqf9IkzlKJESx0W" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="07db37d4-6cbf-44cf-9136-b18f3aacf25b" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5531674" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="" />
+      <recent name="com.hibernate.one" />
+      <recent name="hibernate" />
+      <recent name="com.hibernate.lesson" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Users\Administrator\IdeaProjects\itemHibernateOne\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SelectStudy">
+    <configuration name="OperateStudy" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.hibernate.one.OperateStudy" />
+      <module name="itemHibernateOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibernate.one.SelectStudy" />
+      <module name="itemHibernateOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibernate.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OperateStudy" />
+      <item itemvalue="Application.SelectStudy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SelectStudy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef208ec2-0b26-44bd-85f2-4784ff95b497" name="Default Changelist" comment="" />
+      <created>1586429761651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586429761651</updated>
+      <workItem from="1586429763029" duration="3961000" />
+      <workItem from="1586433831701" duration="478000" />
+      <workItem from="1586434333980" duration="220000" />
+      <workItem from="1586434650908" duration="2480000" />
+      <workItem from="1586437318248" duration="341000" />
+      <workItem from="1586438067039" duration="624000" />
+      <workItem from="1586439111204" duration="743000" />
+      <workItem from="1586481003461" duration="608000" />
+      <workItem from="1586498762849" duration="579000" />
+      <workItem from="1586506332057" duration="37000" />
+      <workItem from="1586508493538" duration="2978000" />
+      <workItem from="1586511524969" duration="4626000" />
+      <workItem from="1586518776901" duration="190000" />
+      <workItem from="1586519127175" duration="1354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
