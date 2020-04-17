@@ -1,0 +1,15 @@
+技术：
+	代码工具：IDEA
+	JDK：1.8
+	服务器：tomcat
+	Java-web：servlet
+	数据库：mysql数据库
+
+准备工作：
+	1.mysql驱动包。
+	2.bootstrap 前端界面框架。
+	3.连接数据库的工具类：DBManager
+	4.json-lib 用来转换json数据。
+	5.百度web-uploadder 用来上传图片
+	6.ueditor (在线html编辑工具) 来上传html内容。
+	7.jstl 技术。
